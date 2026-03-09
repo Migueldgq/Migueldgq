@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Miguel Garcia, a Jr Front-end developer. Welcome to my github profile
+Hello I'm Miguel Garcia, a Front-end developer. Welcome to my github profile
 
 
 ## 🌐 Socials:
