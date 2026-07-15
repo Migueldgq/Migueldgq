@@ -52,14 +52,10 @@ I care about clean architecture, maintainable code, and getting the details righ
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Migueldgq&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Migueldgq&theme=dark&hide_border=true&layout=compact&count_private=false)
-
 </div>
 
 ---
 
 <div align="center">
-
-<sub>[![Profile Views](https://visitcount.itsvg.in/api?id=Migueldgq&icon=0&color=1)](https://visitcount.itsvg.in)</sub>
-
+<sub>Built with ❤️ from A Coruña, Spain</sub>
 </div>
